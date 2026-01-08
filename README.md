@@ -10,3 +10,4 @@ The task of building keyboard model include these steps:
 
 By using these steps, a model generating next three words is built, just like a predictive keyboard in your smartphone.
 
+5. Used Streamlit for UI deployment 
